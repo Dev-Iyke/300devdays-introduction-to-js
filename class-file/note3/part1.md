@@ -18,7 +18,7 @@ const person = {
 
 // Constructor function
 function Person(name, age) {
-  this.name = name;
+  this.name = name; 
   this.age = age;
 }
 
